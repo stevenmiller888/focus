@@ -4,9 +4,7 @@ A chrome extension to countdown the years until your death. Inspired by [Motivat
 
 ## Example
 
-![Demo1](https://cldup.com/RYQraoenov.png)
-
-![Demo2](https://cldup.com/SMgQ5xvTwL.png)
+![Demo](https://cldup.com/SMgQ5xvTwL.png)
 
 ## Installing
 
